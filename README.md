@@ -1,5 +1,5 @@
-# linux-config-files
+# Linux config files
 
 
-#Creditos
-Creditos a [@usarral](https://github.com/usarral) por el desarrollo de los scripts
+### Créditos
+Créditos a [@usarral](https://github.com/usarral) por el desarrollo de los scripts
